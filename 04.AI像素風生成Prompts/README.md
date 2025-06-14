@@ -11,7 +11,7 @@ pixel art style, 16-bit, texture, flat 2D perspective, front-facing, wide shot. 
 ![エビフライトライアングル](./image02.jpeg "サンプル")
 pixel art style, 16-bit, texture, flat 2D perspective, front-facing, wide shot.A panoramic view of a dense star field fades into darkness, filled with subtle color gradients and glimmers of distant galaxies.No ground or elements—pure horizontal starlight.Uniform star distribution, varying brightness.Subtle glow along horizon band, soft hue blending.Pre-dawn quiet.Flat emotional tone—contemplative and boundless.pixel grid, flat color fill, speckled light points, minimalistic pattern.Color scheme: midnight blue, grey-white, soft magenta.Theme: tranquil, infinite, meditative.
 
-### 小女孩：
+### 城市：
 ![エビフライトライアングル](./image04.jpeg "サンプル")
 pixel art style, 16-bit, texture, flat 2D perspective, front-facing, close-up. Japanese high school classroom window background, blurred details, golden sunlight shining diagonally across face, black-haired schoolgirl gazing quietly outside, expression calm and thoughtful. pixelated skin and hair texture, soft rim lighting on hair strands, flat color with slight gradient, warm pastel tones, early afternoon setting. pixel grid, sharp edges, nostalgic atmosphere.
 
